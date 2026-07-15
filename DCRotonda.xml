@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<record
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:iccd="http://www.iccd.beniculturali.it/schema/schedaA/">
+
+  <!-- identità del monumento -->
+  <iccd:OGTT>Villa</iccd:OGTT>
+  <iccd:OGTQ>suburbana</iccd:OGTQ>
+  <dc:title>Villa Almerico Capra</dc:title>
+  <iccd:OGTD authorityURI="https://www.wikidata.org/wiki/Q505574">Villa Almerico Capra</iccd:OGTD>
+  <dcterms:alternative>la Rotonda</dcterms:alternative>
+  <dcterms:alternative xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q505574</dcterms:alternative>
+  <iccd:OGA authorityURI="https://www.wikidata.org/wiki/Q505574">la Rotonda</iccd:OGA>
+
+  <!-- LOCALIZZAZIONE -->
+  <iccd:PVCS>Italia</iccd:PVCS>
+  <iccd:PVCR authorityURI="https://www.geonames.org/3164604/veneto.html">Veneto</iccd:PVCR>
+  <iccd:PVCP authorityURI="https://www.geonames.org/3164419/vicenza.html">Vicenza</iccd:PVCP>
+  <iccd:PVCC authorityURI="https://www.geonames.org/3164419/vicenza.html">Vicenza</iccd:PVCC>
+  <iccd:PVCI>Via della Rotonda 45, 36100 Vicenza (VI)</iccd:PVCI>
+  <iccd:PVCT>Colle di Gogna</iccd:PVCT>
+
+  <!-- AUTORE -->
+  <dc:creator authorityURI="http://viaf.org/viaf/17227673">Andrea Palladio</dc:creator>
+
+  <iccd:AUT>
+    <iccd:AUTR>progetto</iccd:AUTR>
+    <iccd:AUTN authorityURI="http://viaf.org/viaf/17227673">Palladio Andrea</iccd:AUTN>
+  </iccd:AUT>
+
+  <iccd:AUT>
+    <iccd:AUTR>completamento</iccd:AUTR>
+    <iccd:AUTN authorityURI="http://vocab.getty.edu/ulan/500115589">Scamozzi Vincenzo</iccd:AUTN>
+  </iccd:AUT>
+
+  <!-- CRONOLOGIA -->
+  <iccd:DTZG>costruzione</iccd:DTZG>
+  <iccd:DTZI>1566-1571</iccd:DTZI>
+  <iccd:DTZA>Rinascimento</iccd:DTZA>
+  <iccd:DTZP>Palladio Andrea</iccd:DTZP>
+  <iccd:DTZP>Scamozzi Vincenzo</iccd:DTZP>
+
+  <!-- Spazi -->
+  <iccd:SIIR>Intero bene</iccd:SIIR>
+  <iccd:SIIN>Tre piani</iccd:SIIN>
+  <iccd:SIIP>p.terra; p.nobile; p.mezzanino; p.attico</iccd:SIIP>
+
+  <!-- impianto strutturale -->
+  <iccd:ISP>La Rotonda è un edificio a pianta centrale, un volume cubico che ruota attorno a una sala circolare con cupola. Gli assi diagonali del corpo principale seguono la direzione dei punti cardinali, mentre le quattro facciate sono identiche: ognuna è dotata di pronao, con timpano sorretto da sei colonne ioniche e imponente gradinata che conduce direttamente al piano nobile. La Rotonda è priva di fondamenta: si autosostiene grazie al sistema di archi e di volte a crociera in mattoni del pianterreno, che costituiscono la griglia strutturale di assi tra loro perpendicolari su cui si appoggiano i piani superiori.</iccd:ISP>
+
+  <!-- pianta -->
+  <iccd:PNR>intero bene</iccd:PNR>
+  <iccd:PNT>Quadrata</iccd:PNT>
+  <iccd:PNTF>quadrato e cerchio</iccd:PNTF>
+  <iccd:PNTS>composto</iccd:PNTS>
+
+  <!-- tecnica costruttiva -->
+  <iccd:SVCU>intero bene</iccd:SVCU>
+  <iccd:SVCT>corpo centrale</iccd:SVCT>
+  <iccd:SVCM>laterizio</iccd:SVCM>
+
+  <iccd:SVCU>intero bene</iccd:SVCU>
+  <iccd:SVCT>capitelli e basi delle colonne</iccd:SVCT>
+  <iccd:SVCM>pietra da taglio</iccd:SVCM>
+
+  <iccd:SVCU>intero bene</iccd:SVCU>
+  <iccd:SVCT>fusti delle colonne</iccd:SVCT>
+  <iccd:SVCM>mattoni sagomati</iccd:SVCM>
+
+  <!-- strutture di orizzontamento -->
+  <iccd:SOU>corpo centrale</iccd:SOU>
+  <iccd:SOFG>cupola</iccd:SOFG>
+  <iccd:SOFF>cupola</iccd:SOFF>
+  <iccd:SOFQ>a calotta ribassata</iccd:SOFQ>
+
+  <!-- scale interne -->
+  <iccd:SCL>scale interne</iccd:SCL>
+  <iccd:SCLU>interna</iccd:SCLU>
+  <iccd:SCLG>scala</iccd:SCLG>
+  <iccd:SCLN>4</iccd:SCLN>
+  <iccd:SCLL>angolare</iccd:SCLL>
+  <iccd:SCLF>a chiocciola</iccd:SCLF>
+  <iccd:SCLM>pietra</iccd:SCLM>
+
+  <!-- scale esterne -->
+  <iccd:SCL>scale esterne</iccd:SCL>
+  <iccd:SCLU>esterna</iccd:SCLU>
+  <iccd:SCLG>scala d'accesso</iccd:SCLG>
+  <iccd:SCLO>d'accesso</iccd:SCLO>
+  <iccd:SCLN>4</iccd:SCLN>
+  <iccd:SCLL>centrale</iccd:SCLL>
+  <iccd:SCLF>rampa singola</iccd:SCLF>
+  <iccd:SCLM>pietra</iccd:SCLM>
+
+  <!-- elementi decorativi -->
+  <iccd:DECU>piano nobile</iccd:DECU>
+  <iccd:DECL>interna</iccd:DECL>
+  <iccd:DECT>affresco</iccd:DECT>
+  <iccd:DECM>intonaco</iccd:DECM>
+
+  <iccd:DECU>piano nobile</iccd:DECU>
+  <iccd:DECL>interna</iccd:DECL>
+  <iccd:DECT>stucchi</iccd:DECT>
+  <iccd:DECM>stucco</iccd:DECM>
+
+  <!-- iscrizioni -->
+  <iccd:LSIU>prospetto principale</iccd:LSIU>
+  <iccd:LSIG>iscrizione</iccd:LSIG>
+  <iccd:LSIV>pietra</iccd:LSIV>
+  <iccd:LSII>MARIVS CAPRA GABRIELIS FILIVS</iccd:LSII>
+
+  <!-- utilizzazioni -->
+  <iccd:USA>residenza privata con accesso limitato al pubblico</iccd:USA>
+
+  <!-- STATO DI CONSERVAZIONE -->
+  <iccd:STCC>ottimo</iccd:STCC>
+  <iccd:STCD>restauri periodici documentati</iccd:STCD>
+
+  <!-- FONTI E DOCUMENTAZIONE -->
+  <iccd:BIB>
+    <iccd:BIBA>Palladio Andrea</iccd:BIBA>
+    <iccd:BIBT>I quattro libri dell’architettura</iccd:BIBT>
+    <iccd:BIBL>Venezia</iccd:BIBL>
+    <iccd:BIBD>1570</iccd:BIBD>
+  </iccd:BIB>
+
+  <iccd:FNT>
+    <iccd:FNTR>archivistica</iccd:FNTR>
+    <iccd:FNTN>Archivio Palladiano</iccd:FNTN>
+  </iccd:FNT>
+
+  <!-- VINCOLI -->
+  <iccd:VNCG>vincolo monumentale</iccd:VNCG>
+  <iccd:VNCD>DM 23/04/1911</iccd:VNCD>
+
+</record>
+
+
+
