@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prologo del II libro del trattato "I quattro libri di architettura"</title>
+        <author>Andrea Palladio</author>
+      </titleStmt>
+
+      <sourceDesc>
+        <biblStruct>
+          <!-- Metadati dell’estratto -->
+          <analytic>
+            <author>Andrea Palladio</author>
+            <title level="a">Prologo</title>
+          </analytic>
+
+          <!-- Metadati del volume -->
+          <monogr>
+            <title level="m">I quattro libri di architettura</title>
+            <edition>Prima edizione</edition>
+            <imprint>
+              <publisher>De Franceschi Domenico</publisher>
+              <pubPlace>Venezia</pubPlace>
+              <date>1570</date>
+            </imprint>
+            <biblScope unit="page">18</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+      <profileDesc>
+      <particDesc>
+
+      <listPerson>
+      <!-- Autorità: Paolo Almerico -->
+        <person xml:id="paolo_almerico">
+          <persName>Paolo Almerico</persName>
+          <occupation>Uomo di Chiesa</occupation>
+          <idno type="Wikidata">Q3362592</idno>
+        </person>
+      </listPerson>
+      </particDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <pb n="18"/>
+
+      <head>Prologo del Libro II</head>
+
+      <p xml:lang="it">
+        <hi>Fra molti</hi>
+        <choice><orig>honorati</orig><reg>onorati</reg></choice>
+        gentil’
+        <choice><orig>huomini</orig><reg>uomini</reg></choice>
+        Vicentini si ritrova Monsignor
+        <persName ref="#paolo_almerico">Paolo Almerico</persName>,
+        <choice><orig>huomo</orig><reg>uomo</reg></choice>
+        di <orgName>Chiesa</orgName>, e già referendario di due Sommi Pontefici
+        <persName>Pio IIII</persName> e <persName>Pio V</persName>,
+        che per il suo valore meritò di esser fatto Cittadino Romano con tutta casa sua.
+
+        Questo gentil’
+        <choice><orig>huomo</orig><reg>uomo</reg></choice>,
+        dopo aver vagato molti anni per desiderio di
+        <choice><orig>honore</orig><reg>onore</reg></choice>,
+        finalmente, morti tutti i suoi, venne a repatriare e per suo diporto si ridusse
+        a un suo suburbano in monte, lontano dalla città meno di un quarto di miglio,
+        ove ha fabbricato secondo l’invenzione che segue.
+
+        Il sito è tra i più ameni e dilettevoli che si possano ritrovare:
+        perché è sopra un monticello di ascesa facilissima, ed è da una parte bagnato
+        dal <placeName>Bacchiglione</placeName>, fiume navigabile, e dall’altra circondato
+        da altri amenissimi colli che rendono l’aspetto di un molto grande
+        <objectName>theatro</objectName>, tutti coltivati e abbondanti di frutti eccellentissimi
+        e di buonissime viti.
+
+        Onde, poiché gode da ogni parte di bellissime viste — alcune terminate,
+        alcune più lontane, altre che finiscono con l’
+        <choice><orig>Orizonte</orig><reg>orizzonte</reg></choice> —
+        vi sono state fatte le <objectName>loggie</objectName> in tutte quattro le facce.
+
+        Sotto il piano delle logge e della sala sono le stanze per la comodità e uso
+        della famiglia. La sala è nel
+        <choice><orig>mezo</orig><reg>mezzo</reg></choice>,
+        è rotonda e prende luce dall’alto. I camerini sono ammezzati.
+
+        Sopra le stanze grandi, le quali hanno i volti alti secondo il primo modo,
+        intorno alla sala vi è un luogo da passeggiare di larghezza di quindici piedi
+        e <choice><orig>mezo</orig><reg>mezzo</reg></choice>.
+
+        Nell’estremità dei piedistalli che fanno poggio alle scale delle logge
+        vi sono statue di mano di Messer
+        <persName ref="#lorenzo_vicentino">Lorenzo Vicentino</persName>,
+        scultore molto eccellente.
+      </p>
+    </body>
+  </text>
+</TEI>
